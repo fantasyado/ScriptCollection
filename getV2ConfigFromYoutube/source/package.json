@@ -1,0 +1,16 @@
+{
+  "name": "GfwDecode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ndu",
+  "license": "MIT",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "esbuild": "0.16.13",
+    "jimp": "^0.16.2",
+    "jsqr": "^1.4.0",
+    "node-pre-gyp": "^0.17.0",
+    "puppeteer": "^19.4.0"
+  }
+}
